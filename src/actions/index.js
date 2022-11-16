@@ -1,0 +1,2 @@
+export const FETCH_COUNTRIES= 'FETCH_COUNTRIES';
+export const INVALID_REQST = 'INVALID_REQST';
